@@ -210,5 +210,6 @@ Multimodal-RAG/
 ---
 
 **Our Multi-Media Chat Bot** - A complete multimodal AI assistant built from scratch with local processing, privacy-first design, and intelligent content understanding!
-#   M u l t i _ M o d e l _ R a g _ C h a t b o t  
+#   M u l t i _ M o d e l _ R a g _ C h a t b o t 
+ 
  
